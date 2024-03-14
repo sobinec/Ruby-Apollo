@@ -1,4 +1,4 @@
-# README.md for Discord Bot
+# README.md for Ruby Apollo Discord Bot
 
 ## Introduction
 
