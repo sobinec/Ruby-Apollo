@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Discord bot project! This bot is designed to be self-hosted and used exclusively within a single server. It's built with Ruby, leveraging the `discordrb` library for Discord bot functionality and `colorize` for enhanced logging. The bot is modular, allowing you to enable or disable specific functionalities by renaming files in the `Cogs` directory (Add .disabled to the end of the plugins you don't want to use). This README will guide you through the setup process and provide an overview of the project's structure and guidelines.
+Welcome to the Ruby Apollo Discord bot project! This bot is designed to be self-hosted and used exclusively within a single server. It's built with Ruby, leveraging the `discordrb` library for Discord bot functionality and `colorize` for enhanced logging. The bot is modular, allowing you to enable or disable specific functionalities by renaming files in the `Cogs` directory (Add .disabled to the end of the plugins you don't want to use). This README will guide you through the setup process and provide an overview of the project's structure and guidelines.
 
 ## Prerequisites
 
