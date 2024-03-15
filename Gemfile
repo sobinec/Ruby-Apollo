@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "discordrb" # The main discord bot library
+gem 'discordrb', github: 'shardlab/discordrb', branch: 'main'
 gem "colorize" # Colorful logging

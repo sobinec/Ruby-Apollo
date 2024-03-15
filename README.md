@@ -1,4 +1,4 @@
-# README.md for Ruby Apollo Discord Bot
+# README.md for Discord Bot
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Welcome to the Discord bot project! This bot is designed to be self-hosted and u
 
 2. **Install dependencies**: Run `bundle install` in the terminal from the project's root directory to install all necessary Ruby gems.
 
-3. **Launch the bot**: Execute `ruby main.rb` to start the bot.
+3. **Launch the bot**: Execute `ruby Main.rb` to start the bot.
 
 ## Modularity and Customization
 
