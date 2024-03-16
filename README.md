@@ -41,6 +41,10 @@ If you wish to contribute to this project, please adhere to the following rules:
 - Follow the naming conventions for folders and files.
 - Use the `LogBox` module for logging.
 
+## Limitations
+
+It's important to note that this Discord bot does not support slash commands due to limitations within the discordrb library. The library currently does not support slash commands within cogs because they require a bot variable to function, which is not available in cogs. This limitation is discussed in detail in this [GitHub issue](https://github.com/shardlab/discordrb/issues/236). As a result, the bot utilizes regular Discord message commands for its functionality.
+
 ## License
 
 This project is licensed under the MIT License.
