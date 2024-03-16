@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-- [discordrb](https://github.com/discordrb/discordrb) for the Discord bot library.
+- [discordrb]([https://github.com/shardlab/discordrb](https://github.com/shardlab/discordrb)) for the Discord bot library.
 - [colorize](https://github.com/fazibear/colorize) for colorful logging.
 
 ## Support
